@@ -8,7 +8,7 @@
                  [ring/ring-defaults "0.1.5"]
                  [ring-server "0.4.0"]
                  [compojure "1.4.0"]
-                 [glimpse "0.1.0-SNAPSHOT"]
+                 [glimpse "0.1.0"]
                  [twitter-api "0.7.8"]
                  [camel-snake-kebab "0.3.2"]
                  [environ "1.0.1"]]
